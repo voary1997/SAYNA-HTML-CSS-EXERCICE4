@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "regular";
+    src: url("../assets/Far-From Homecoming Updated.otf");
+}
+.navbarre{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+
+}
+.logo a{
+    color: #fff;
+    text-decoration: none;
+}
+.menu{
+    color: #fff;
+    display: flex;
+    width: 25%;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.h1{
+    font-family:"regular";
+}
+.men {
+    justify-content: center;
+    color: #fff;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.menu .men:hover{
+    font-size: 20px
+}
+
+.primo{
+    font-family: 'regular';
+    background-image: url('./assets/Illustration/img7.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    color: #fff;
+    text-align: center;
+
+}
+
+h4{
+    text-align: center;
+
+}
+.primo.h2{
+    font-size: 500px;
+    padding: 200px 0 0 20px;
+}
+footer{
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#foot{
+    background-color: #000;
+}
+.img{
+    align-items: center;
+}

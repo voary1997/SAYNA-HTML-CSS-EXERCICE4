@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'regular';
+    src: url('./assets/police/Far-From\ Homecoming\ Updated.otf');
+}
+.container-fluid-2{
+    font-family: 'regular';
+    font-weight: 800px;
+}
+.container-fluid-3 h2{
+    font-family:'regular' ;
+}
+#navigation{
+    color: #fff;
+}
+.nav a{
+    color: #fff;
+}
+.footer{
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img{
+    align-items: center;
+}
+.container-fluid-5{
+    background-color: black;
+}
+
